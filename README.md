@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="left">
+  <img alt="GitHub stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=taji-taji&show_icons=true&count_private=true&theme=swift" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taji-taji&count_private=true&theme=swift" />
+</p>
 
 <!--
 **taji-taji/taji-taji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
